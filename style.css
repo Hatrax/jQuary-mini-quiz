@@ -1,0 +1,15 @@
+body {
+    text-align: center;
+    padding: 5px;
+}
+div {
+    padding: 5px;
+    margin: 5px;
+}
+#hidden {
+    display: none;
+}
+
+#rmform {
+    background-color: blueviolet;
+}
